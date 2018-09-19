@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4591a50-9152-4fe3-a919-a1e80e56a9ba" name="Default Changelist" comment="" />
+    <list default="true" id="a4591a50-9152-4fe3-a919-a1e80e56a9ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="js" value="28" />
           <entry key="json" value="2" />
@@ -34,12 +38,13 @@
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="28" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="27" />
+          <entry key="gitignore" value="17" />
           <entry key="js" value="1711" />
           <entry key="md" value="65" />
         </counts>
@@ -49,7 +54,7 @@
           <entry key="CSS" value="27" />
           <entry key="JavaScript" value="1711" />
           <entry key="Markdown" value="40" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
     </session>
@@ -92,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/2018-09-19-post-4/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -104,7 +109,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/pages/blog.js" />
         <option value="$PROJECT_DIR$/gatsby-node.js" />
         <option value="$PROJECT_DIR$/src/pages/2018-09-19-post-4/index.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -132,6 +150,7 @@
     <option name="width" value="957" />
     <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -145,35 +164,6 @@
               <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
               <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="2018-09-19-post-4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-go4digital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-go4digital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -183,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537356816437" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537357209476" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -218,6 +208,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17739628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,7 +226,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31111112" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,6 +361,13 @@
             <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
